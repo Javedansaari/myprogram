@@ -178,7 +178,7 @@ int main(){
 					default :
 						cout<<"\n invalid choice  "<<endl;
 				}
-				cout<<"\n do you want to continue (y/n)   ";
+				cout<<"\n Continue (y/n)   ";
 				cin>>ch;
 		}while(ch == 'y' || ch == 'Y');
 
